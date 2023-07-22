@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.pexels.com/photos/1304542/pexels-photo-1304542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Lemon",
+            "size": "100 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=es+lemon&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/5947035/pexels-photo-5947035.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Buah Naga",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+buah+naga&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dGVFfZv5SuEhMVIiQRdK8L3Ruy8wSE8I-Q&usqp=CAU",
+            "nama": "Es Rumput Laut",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+rumput+laut&tbm=shop"
+        },
+        {
+            "foto": "https://akcdn.detik.net.id/visual/2022/06/16/ilustrasi-es-krim-stroberi-1_169.jpeg?w=400&q=90",
+            "nama": "Ice Cream Strawberry",
+            "size": "150 Ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=Ice+cream+strawberry&tbm=shop"
+        }
+    ]
+}
